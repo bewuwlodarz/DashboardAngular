@@ -1,0 +1,11 @@
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\bin\Debug\netcoreapp2.1\Advantage_WebApi.deps.json
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\bin\Debug\netcoreapp2.1\Advantage_WebApi.runtimeconfig.json
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\bin\Debug\netcoreapp2.1\Advantage_WebApi.runtimeconfig.dev.json
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\bin\Debug\netcoreapp2.1\Advantage_WebApi.dll
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.RazorAssemblyInfo.cache
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.RazorAssemblyInfo.cs
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.AssemblyInfoInputs.cache
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.AssemblyInfo.cs
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.RazorTargetAssemblyInfo.cache
