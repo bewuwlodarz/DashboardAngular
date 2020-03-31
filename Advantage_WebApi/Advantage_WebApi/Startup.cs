@@ -26,6 +26,11 @@ namespace Advantage_WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddCors(opt =>
+            {
+                opt.AddPolicy("CorsPolicy", c => c.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDbContext<ApiContext>();
 
@@ -38,6 +43,7 @@ namespace Advantage_WebApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseCors("CorsPolicy");
             }
             else
             {
@@ -46,7 +52,9 @@ namespace Advantage_WebApi
             seed.SeedData(20, 100);
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            app.UseMvc(routes => routes.MapRoute(
+                "defualt", "api/{controller}/{action}/{id?}"
+                ));
             
         }
     }

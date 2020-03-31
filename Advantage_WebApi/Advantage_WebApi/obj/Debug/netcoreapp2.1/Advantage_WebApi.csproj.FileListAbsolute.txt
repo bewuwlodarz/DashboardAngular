@@ -10,6 +10,6 @@ C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Adva
 C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.AssemblyInfo.cs
 C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.RazorTargetAssemblyInfo.cache
 C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\bin\Debug\netcoreapp2.1\Advantage_WebApi.pdb
-C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.dll
 C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\Advantage_WebApi.pdb
+C:\Users\Użytkownik\Desktop\Kurs\Angular\DashboardAngular\DashboardAngular\Advantage_WebApi\Advantage_WebApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
