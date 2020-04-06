@@ -10,6 +10,7 @@
                 <th>Amount</th>
                 <th>Order Placed</th>
                 <th>Order Fulfilled</th>
+                <th>State</th>
                 <th>Status</th>
             </tr>
         </thead>
@@ -20,7 +21,8 @@
                 <td>{{order.total}}</td>
                 <td>{{order.placed | date: 'short'}}</td>
                 <td>{{order.completed | date: 'short'}}</td>
-                <td>Status</td>
+                <td>{{order.customer.state}}</td>
+                <td>{{order.status}}</td>
             </tr>
         </tbody>
     </table>

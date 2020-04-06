@@ -17,6 +17,7 @@ export class SectionOrdersComponent implements OnInit {
   page = 1;
   limit=10;
   loading = false;
+  status= 'open';
   ngOnInit(): void
    {this.getOrders();
   }
@@ -28,6 +29,7 @@ export class SectionOrdersComponent implements OnInit {
         this.orders = res['page']['data'];
         this.total = res['page'].total;
         this.loading = false;
+        
       });
   }
   goToPrevious(): void {

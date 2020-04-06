@@ -5,5 +5,6 @@ export interface Order{
     total: number;
     placed: Date;
     fulfilled: Date;
-    
+    state: string;
+    status: string;
 }
